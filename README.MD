@@ -7,6 +7,7 @@
 ## 🌈 Features
 
 * **Dynamic Personality Colors:** The terminal color theme changes as Alex’s tone changes.
+* **Dynamic Personality*: Alex's traits change as you talk to them and the tone changes as well. 
 * **Flexible Startup Options:**
 
   * Start with a **random personality**
