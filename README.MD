@@ -36,9 +36,23 @@ python src/runtime/main.py # runs the actual file
 
 Each personality defines how Alex interacts:
 
+* **Random** — Unpredictable and spontaneous (*text color: white*)
 * **Loving** — Gentle and encouraging (*text color: pastel pink*)
+* **Neutral** — Balanced and objective (*text color: gray*)
+* **Warm** — Kind and comforting (*text color: light orange*)
+* **Playful** — Energetic and teasing (*text color: cyan*)
+* **Formal** — Polite and professional (*text color: dark gray*)
+* **Casual** — Relaxed and friendly (*text color: green*)
+* **Authoritative** — Commanding and confident (*text color: blue*)
+* **Cautious** — Careful and thoughtful (*text color: amber*)
+* **Direct** — Straightforward and concise (*text color: yellow*)
+* **Diplomatic** — Polite and tactful (*text color: light green*)
+* **Curious** — Inquisitive and engaged (*text color: sky blue*)
+* **Witty/Dry** — Clever and subtly humorous (*text color: gray*)
+* **Reflective** — Thoughtful and introspective (*text color: navy blue*)
 * **Harsh** — Blunt and strict (*text color: red*)
-* **Direct** — Balanced, straightforward, no-nonsense (*text color: yellow*)
+* **Create new Personality** — Custom tone defined by the user (*text color: customizable*)
+
 
 ---
 
